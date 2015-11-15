@@ -36,7 +36,7 @@
 			<li>
 				Du 01/05/2009 au 30/11/2010 :Auto-entrepreneur, réparation d'ordinateurs et d'équipements périphériques.
 				
-			<br>- Montage d'unités centrales<br>- Création de réseaux domestiques<br>- Configuration<br>- Maintenance</li>
+			</li>
 			<li>
 				Du 01/01/2001 au 02/09/2005 :Intérimaire,cariste,préparateur de commandes.
 				</li>
