@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<link type="text/css" rel="stylesheet" href="stylesheet.md"/>
         <title>CV DESGOURDES VIVIEN </title>
     </head>
     <body>
